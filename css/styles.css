@@ -25,6 +25,10 @@ h3{
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
 }
+.profile-img {
+  max-width: 100%;
+  max-height: 100%
+}
 h4{
   font-family: 'Montserrat', sans-serif;
   color: #66BFBF;
@@ -137,7 +141,7 @@ a:hover{
   margin-right: 30px;
 }
 .dsa{
-  max-width: 80%;
+  max-width: 100%;
   margin-right: 30px;
 }
 .langauge{
@@ -149,7 +153,6 @@ a:hover{
   margin-left: 30px;
 }
 .profile{
-  line-height: 0.8;
   margin: 50px auto 50px auto;
 }
 .intro{
